@@ -54,6 +54,10 @@ Implementation Process
 4)Implementing eco-points, badges, and leaderboard features
 5)Testing the platform with students and improving based on feedback
 
+Diagram
+<img width="1280" height="720" alt="gamification" src="https://github.com/user-attachments/assets/bdb0c236-9fa1-40f9-8442-3d441b7e1893" />
+
+
 ## Feasibility and Viability
 This idea is feasible because it uses commonly available technologies and can be developed using existing development tools.
 Possible Challenges
