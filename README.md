@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:13-02-2026
+## Reference Number:25018415
+## Name:MANORAJAPRIYAN.L.E
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -33,27 +33,45 @@ Smart Education
 </ul>
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+* The proposed solution is to create a gamified learning platform that makes environmental education more interesting and practical for students
+* In this platform, students will learn environmental topics through interactive lessons, quizzes, and small challenges. They can also complete real-life eco activities such as planting trees, saving electricity, or recycling waste
+* Each completed task will give the student eco-points, which will increase their score. Schools can also have leaderboards where students compete in a positive way to perform more eco-friendly activities
+* The platform will also provide badges and rewards to students who actively participate in environmental protection activities. Teachers can track the progress of students and encourage them to take part in eco-friendly initiatives
+* This approach makes environmental education fun, practical, and motivating for students
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+The system can be developed as both a mobile application and a web platform so that students can easily access it from their devices.
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: Python (Django) or Node.js
+Database: MySQL or MongoDB
+Mobile App: Flutter or React Native
+
+Implementation Process
+1)Understanding the requirements and environmental learning needs
+2)Designing a simple and attractive user interface
+3)Developing learning modules, quizzes, and eco challenges
+4)Implementing eco-points, badges, and leaderboard features
+5)Testing the platform with students and improving based on feedback
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+This idea is feasible because it uses commonly available technologies and can be developed using existing development tools.
+Possible Challenges
+* Keeping students continuously engaged
+* Verifying real-life environmental activities
+
+Solutions
+* Regularly updating challenges and rewards
+* Allowing teachers or students to upload proof such as photos of completed activities
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+This platform can create a positive environmental impact by educating and motivating students to take action.
+Benefits
+* Improves environmental awareness among students
+* Encourages sustainable daily habits
+*Promotes participation in environmental activities
+* Supports experiential learning as recommended in NEP 2020
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1)  https://ecokids.net
+2 ) https://learningforsustainability.net/online-games/
